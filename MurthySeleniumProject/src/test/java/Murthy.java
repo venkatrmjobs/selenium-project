@@ -27,9 +27,9 @@ public class Murthy extends Init {
     public void testingBrowser(){
         this.test = reports.startTest("testing murthy name");
         homePage = HomePage.getInstance(webDriver);
-        homePage.loadUrl("http:www.facebook.com");
+        homePage.loadUrl("https://www.facebook.com/");
         homePage.enterCredential("test", "test");
-        Assert.assertEquals("testing", "testin");
+        Assert.assertEquals("testing", "testing");
         test.log(LogStatus.PASS, " Test case has been passed");
 
     }
