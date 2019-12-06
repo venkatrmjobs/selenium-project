@@ -11,6 +11,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 
 import java.util.HashMap;
 import java.util.Map;
+import java.util.concurrent.TimeUnit;
 
 public class Init {
 
@@ -27,6 +28,7 @@ public class Init {
             options.addArguments("start-maximized");
             options.merge(capabilities);
             this.driver= new ChromeDriver(options);
+            driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
             return driver;
         }
         else if (driverType.equalsIgnoreCase("emulator")){
@@ -37,6 +39,7 @@ public class Init {
             options.addArguments("start-maximized");
             options.setExperimentalOption("mobileEmulation", mobileEmulation);
             this.driver = new ChromeDriver(options);
+
             return driver;
         }
         return driver;
