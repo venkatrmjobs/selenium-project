@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c2c240a-1868-4050-b8d5-b943fe05eab4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../MurthySeleniumProject/.idea/libraries/Maven__io_rest_assured_json_path_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MurthySeleniumProject/.idea/libraries/Maven__io_rest_assured_rest_assured_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MurthySeleniumProject/.idea/libraries/Maven__io_rest_assured_rest_assured_common_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MurthySeleniumProject/.idea/libraries/Maven__io_rest_assured_xml_path_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MurthySeleniumProject/.idea/libraries/commons_codec_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MurthySeleniumProject/.idea/libraries/restassured.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MurthySeleniumProject/src/main/java/DataBaseConnections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MurthySeleniumProject/src/main/java/ResponseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MurthySeleniumProject/src/main/java/commons/InterviewQuestions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MurthySeleniumProject/src/main/java/commons/PracticeCoding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MurthySeleniumProject/src/test/java/MyStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MurthySeleniumProject/src/test/java/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MurthySeleniumProject/src/test/resources/testing.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebServiceProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebServiceProject/src/main/java/services/Alien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebServiceProject/src/main/java/services/AlienResources.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/MurthySeleniumProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MurthySeleniumProject/MurthySeleniumProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MurthySeleniumProject/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/reports/ExtentReportResults.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MurthySeleniumProject/reports/ExtentReportResults.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/src/main/java/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MurthySeleniumProject/src/main/java/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/src/main/java/commons/Init.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MurthySeleniumProject/src/main/java/commons/Init.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/src/main/java/commons/TestData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MurthySeleniumProject/src/main/java/commons/TestData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/src/test/java/Murthy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MurthySeleniumProject/src/test/java/Murthy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/classes/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/classes/commons/Init.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/classes/commons/TestData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../MurthySeleniumProject/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../MurthySeleniumProject/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/surefire-reports/Suite1/Nopackage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/surefire-reports/Suite1/Nopackage.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/surefire-reports/TestSuite.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/surefire-reports/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/surefire-reports/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/surefire-reports/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/surefire-reports/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/surefire-reports/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/surefire-reports/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/surefire-reports/junitreports/TEST-Murthy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/surefire-reports/old/Suite1/Nopackage.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/surefire-reports/old/Suite1/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/surefire-reports/old/Suite1/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/surefire-reports/old/Suite1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/surefire-reports/old/Suite1/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/surefire-reports/old/Suite1/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/surefire-reports/old/Suite1/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/surefire-reports/old/Suite1/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/surefire-reports/old/Suite1/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/surefire-reports/old/Suite1/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/surefire-reports/old/Suite1/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/surefire-reports/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/surefire-reports/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/surefire-reports/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/surefire-reports/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/surefire-reports/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/surefire-reports/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/surefire-reports/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/test-classes/Murthy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MurthySeleniumProject/target/test-classes/testng.xml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Profiles" type="6783ec58:MavenProjectsStructure$ProfilesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="murthytesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="murthytesting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="murthytesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="murthytesting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="murthytesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="murthytesting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="murthytesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="murthytesting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="murthytesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="murthytesting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="murthytesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565652030579" />
+    <property name="last_opened_file_path" value="C:/AutomationCodeBase/tma-sell-plansandservices" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c2c240a-1868-4050-b8d5-b943fe05eab4" name="Default Changelist" comment="" />
+      <created>1565649828182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565649828182</updated>
+      <workItem from="1565649833566" duration="279000" />
+      <workItem from="1565650154953" duration="2075000" />
+      <workItem from="1565664369817" duration="428000" />
+      <workItem from="1565803464703" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2821000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25973153" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2733711" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info active="true" anchor="right" id="Maven" order="5" visible="true" weight="0.3295302" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2261">
+          <caret line="119" lean-forward="true" selection-start-line="119" selection-end-line="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/murthy/testing/demo/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
