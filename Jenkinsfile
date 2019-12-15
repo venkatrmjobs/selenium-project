@@ -1,4 +1,4 @@
-state ('murthy'){
+stage ('murthy'){
 touch murthy.txt
 echo "adding file"
 }
