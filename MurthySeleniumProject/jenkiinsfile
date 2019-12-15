@@ -1,0 +1,4 @@
+state ('adding files'){
+touch creatingfile.txt
+echo "addedfile"
+}
