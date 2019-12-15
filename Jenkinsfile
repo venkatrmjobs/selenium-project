@@ -1,6 +1,5 @@
 node{
-stage ('murthy'){
-  cd MurthySeleniumProject
+  stage ('murthy'){
   touch test.txt
   git add .
   git commit -m "testing file"
